@@ -1494,8 +1494,6 @@ More text"""
 
 def _run_unittests():
 
-    # TODO: Expand tests for better coverage!
-
     import unittest
 
     class TestPostmarkup(unittest.TestCase):
